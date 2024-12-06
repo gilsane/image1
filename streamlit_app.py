@@ -95,17 +95,17 @@ content_data = {
     },
     labels[1]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label2_Image1",
-            "https://via.placeholder.com/300?text=Label2_Image2",
-            "https://via.placeholder.com/300?text=Label2_Image3"
+            "https://i.ibb.co/L17nRzJ/hq720.jpg",
+            "https://i.ibb.co/v1RfCbs/maxresdefault.jpg",
+            "https://i.ibb.co/GJ3WytP/images.jpg"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
+            "https://www.youtube.com/watch?v=FygEqAqOxuE",
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "Label 2 관련 첫 번째 텍스트 내용입니다.",
+            "양배추 조세호!!!",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
